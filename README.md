@@ -42,7 +42,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   https://github.com/Saiteja-Goli/Mbalyang-MERN.git
+   https://github.com/BharathGovindula/Travel-Agency---MERN.git
    ```
 
 2. Navigate to the project folder:
