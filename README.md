@@ -23,6 +23,10 @@ A React application for managing a collection of Hotels with CRUD operations.
 - Edit existing Hotel details.
 - Delete Hotel from the collection.
 
+<img width="1707" height="824" alt="Screenshot 2025-07-29 211506" src="https://github.com/user-attachments/assets/a0dbe6e9-b405-4dc1-a293-1b3ad1cf6435" />
+<img width="1344" height="813" alt="Screenshot 2025-07-29 211539" src="https://github.com/user-attachments/assets/04b268c6-3b2d-4f70-a95d-154f753518d2" />
+
+
 ## Getting Started
 
 Follow these instructions to set up and run the Movie App locally.
